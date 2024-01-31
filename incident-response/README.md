@@ -8,7 +8,7 @@ This exercise aims to introduce students to the breadth of work that information
 
 ### Why?
 
-Often in structured learning programs, students learn about information security in silos. This exercise aims to break down those silos by giving students insights into how different disciplines collaborate and share information. We use an incident response scenario because it is fun (if you have ever done incident response, you know what I mean!) and forces natural collaboration. 
+Often in structured learning programs in schools and boot camps, students learn about information security in silos. This exercise aims to break down those silos by giving students insights into how different disciplines collaborate and share information. We use an incident response scenario because it is fun (if you have ever done incident response, you know what I mean!) and requires students to collaborate and share information.
 
 ### A few things to keep in mind before we start:
 
@@ -23,7 +23,7 @@ Often in structured learning programs, students learn about information security
 2. Introduce the scenario
 > e.g., You are all part of the global security team at a fictional company called Apptastic. The company develops a fully immersive VR experience in a futuristic cityscape in the metaverse. It connects players with a proprietary Hololens technology and interacts with each other using social credits. The company’s tech stack is hosted in Amazon Web Services (AWS). As part of the team, you are called upon to respond to a potential security incident. The details will follow.
 3. Split the class into 3 separate groups - GRC, Security Engineering, Security Operations
-4. The CISO (teacher) is there to help facilitate discussions among the 3 groups. The teacher may need to prompt certain groups to contribute.
+4. The teacher (CISO) is there to help facilitate discussions among the 3 groups. The teacher may need to prompt certain groups to contribute.
 5. There are multiple sets of cards (also called “Fact Cards”) labeled `A`, `B`, `C`. The letter corresponds to the phase of the incident scenario (see “Running the Exercise” below). Hold on to the cards until you reach the appropriate phase.
 
 At this point, you should have the following roles and teams defined.
@@ -38,15 +38,15 @@ At this point, you should have the following roles and teams defined.
 
 **Phase A**
 
-Hand out all the “A” cards.
+Hand out all the `A` cards.
 
-**Nov 23, 2023 @ 20:03:00 UTC** - Read the slide. If the students are not familiar with AWS, you may need to explain why and in what situations AWS Support would contact the company. Read the content of the message in Slide 11 out loud. This slide is meant to ease students into the exercise.
+**Nov 23, 2023 @ 20:03:00 UTC** - Read the slide out loud. If the students are not familiar with Amazon Web Services (AWS), you may need to explain why and in what situations AWS Support would contact the company. Read the content of the message in Slide 11 out loud. This slide is meant to ease students into the exercise.
 
 **Phase B**
 
-Hand out all the “B” cards.
+Hand out all the `B` cards.
 
-**Nov 23, 2023 @ 21:15:00 UTC** - Read the slide. Ask the Security Operations team about the alert and have someone on the team read out some relevant info from the card.
+**Nov 23, 2023 @ 21:15:00 UTC** - Read the slide out loud. Ask the Security Operations group about the alert and have someone on the team read out some relevant info from the card. They should focus on the IP address, the date/time, and the destination URL. If students have access to a computer, they can also go to the URL on the card to investigate further, but it is not necessary.
 
 The teams may uncover several data points using the Fact Cards they have now. For example:
 
@@ -61,11 +61,11 @@ Help encourage the discussion. Depending on the students’ level of experience,
 
 **Phase C**
 
-Hand out all the “C” cards.
+Hand out all the `C` cards.
 
-**Nov 24, 2023 @ 06:02:44 UTC** - Read the slide. What are the applications? What does this mean? What kinds of threats could possibly take systems / applications offline?
+**Nov 24, 2023 @ 06:02:44 UTC** - Read the slide. What are the applications that are no longer accessible? What does this mean? What kinds of threats could possibly take systems or applications offline?
 
-**Nov 24, 2023 @ 12:05:30 UTC** - Read the slide. Does the fact that the issue is now trending on social media change the urgency? 
+**Nov 24, 2023 @ 12:05:30 UTC** - Read the slide. Does the fact that the issue is now trending on social media change the urgency? Have you seen this happen with other companies where a security incident is posted publicly on social media?
 
 The teams may uncover several data points using the Fact Cards they have now. For example:
 
@@ -88,4 +88,4 @@ These cards may or may not be relevant to the decision-making process. By now, s
 
 **Wrap-up:** Use this time to discuss what happened after the class decision. Also, ask the class what they learned and perhaps what the company could have done to either prevent this type of incident from happening in the future or reduce the impacts.
 
-If you have any feedback 
+If you have any feedback, please leave a comment here or send me a message - `j91741603 at gmail.com`. Thank you!!
