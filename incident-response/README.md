@@ -10,7 +10,12 @@ This exercise aims to introduce students to the breadth of work that information
 
 Often in structured learning programs in schools and boot camps, students learn about information security in silos. This exercise aims to break down those silos by giving students insights into how different disciplines collaborate and share information. We use an incident response scenario because it is fun (if you have ever done incident response, you know what I mean!) and requires students to collaborate and share information.
 
-### A few things to keep in mind before we start:
+### Files you will need
+
+1. Fact Cards.pptx
+1. Security Incident Tabletop Exercise.pptx
+
+### A few things to keep in mind before we start
 
 1. The content below is provided as a guide. Feel free to amend or add content as you see fit for your specific lesson. 
 1. If you plan to run a version of this exercise, I encourage you to rehearse the scenario at least once with the teacher or someone else who will be in the room with you. After my first run-through, the hand-offs between me and the teacher were much smoother, which led to a more engaging and educational experience for the students.
