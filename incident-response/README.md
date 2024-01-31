@@ -12,8 +12,8 @@ Often in structured learning programs in schools and boot camps, students learn 
 
 ### Files you will need
 
-1. Fact Cards.pptx
-1. Security Incident Tabletop Exercise.pptx
+1. [Fact Cards.pptx](https://github.com/jian-me/education/blob/main/incident-response/Fact%20Cards.pptx) | [Fact Cards.pdf](https://github.com/jian-me/education/blob/main/incident-response/Fact%20Cards.pdf)
+1. [Security Incident Tabletop Exercise.pptx](https://github.com/jian-me/education/blob/main/incident-response/Security%20Incident%20Tabletop%20Exercise.pptx) | [Security Incident Tabletop Exercise.pdf](https://github.com/jian-me/education/blob/main/incident-response/Security%20Incident%20Tabletop%20Exercise.pdf)
 
 ### A few things to keep in mind before we start
 
